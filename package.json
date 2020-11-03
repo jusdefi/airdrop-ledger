@@ -1,5 +1,6 @@
 {
   "name": "jusdefi-secret-sharing",
+  "version": "0.0.0",
   "description": "JusDeFi secret sharing implementation",
   "author": "Nick Barry <itsnickbarry@protonmail.ch>",
   "license": "UNLICENSED",

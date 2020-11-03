@@ -1,7 +1,7 @@
 {
-  "name": "jusdefi-secret-sharing",
+  "name": "airdrop-ledger",
   "version": "0.0.0",
-  "description": "JusDeFi secret sharing implementation",
+  "description": "JusDeFi airdrop data and processing",
   "author": "Nick Barry <itsnickbarry@protonmail.ch>",
   "license": "UNLICENSED",
   "private": true,
